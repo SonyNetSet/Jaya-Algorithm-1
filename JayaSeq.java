@@ -1,3 +1,5 @@
+package JayaAlgorithm;
+// This is the sequential Jaya algorithm code in Java
 import java.io.*;
 import java.util.Random;
 import java.util.*;
